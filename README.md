@@ -105,5 +105,3 @@ DigiTag is poised to **expand its offerings** beyond Chanel handbags by incorpor
 🔹 **Mobile App Development** – Enabling seamless blockchain-powered resale transactions.
 
 Our vision is to **extend DigiTag’s secure luxury resale platform beyond Canada**, ensuring **global reach**.
-
-Thank you for your interest in **DigiTag**, where we are committed to securing the future of **luxury resale**! 🚀
