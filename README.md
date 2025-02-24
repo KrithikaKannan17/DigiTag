@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 What It Does
+## 🚀 What It Does?
 
 DigiTag is a **blockchain-powered web application** that secures the sale and resale of luxury items, focusing on **Chanel handbags**. It employs cryptographic authentication and decentralized ledgers to verify ownership, ensuring provenance integrity and eliminating counterfeit risks.
 
@@ -78,7 +78,8 @@ These **robust features** make ICP the ideal blockchain solution for DigiTag, **
 
 ---
 
-## 🏗️ How We Incorporated ICP
+## 🏗️ How We Incorporated ICP?
+
 DigiTag leverages ICP’s **powerful blockchain capabilities** in multiple ways:
 
 🔹 **NFT Authentication** – Each item is **minted as an NFT** on ICP, providing **immutable ownership proof**.
@@ -92,6 +93,7 @@ DigiTag leverages ICP’s **powerful blockchain capabilities** in multiple ways:
 ---
 
 ## 🔮 Future Prospects of DigiTag
+
 DigiTag is poised to **expand its offerings** beyond Chanel handbags by incorporating:
 
 🔹 **Watches, Jewelry, and Designer Sneakers** – Extending luxury authentication services.
